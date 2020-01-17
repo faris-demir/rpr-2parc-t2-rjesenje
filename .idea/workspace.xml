@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="025ed479-e36e-411c-8212-b3ad17aacbce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nadjiDrz</find>
+      <find>nadjiDr</find>
+      <find>obrisiGrad</find>
+      <find>Number</find>
+      <find>glavnigra</find>
+      <find>glavnigradUpi</find>
+      <find>dodajGradUpi</find>
+      <find>promijenigra</find>
+      <find>dajgradupi</find>
+      <find>dajgradizres</find>
+      <find>gradovi()</find>
+      <find>drzave</find>
+      <find>System.out</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1WV0FgIxqAxLaRrWj9LNNl4qAWE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550486893353" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/ba/unsa/etf/rpr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ba.unsa.etf.rpr" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in rpr-t9">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.Main" />
+      <module name="rpr-2parc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in rpr-t9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr-2parc" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeografijaDAOTest.dodajDrzavu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rpr-2parc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ba.unsa.etf.rpr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ba.unsa.etf.rpr" />
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.GeografijaDAOTest" />
+      <option name="METHOD_NAME" value="dodajDrzavu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All in rpr-t9" />
+      <item itemvalue="JUnit.GeografijaDAOTest.dodajDrzavu" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in rpr-t9" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.GeografijaDAOTest.dodajDrzavu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="025ed479-e36e-411c-8212-b3ad17aacbce" name="Default Changelist" comment="" />
+      <created>1547029422553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547029422553</updated>
+      <workItem from="1547029424220" duration="546000" />
+      <workItem from="1547031203806" duration="3227000" />
+      <workItem from="1547203379158" duration="2493000" />
+      <workItem from="1547209874482" duration="587000" />
+      <workItem from="1547836201672" duration="605000" />
+      <workItem from="1547897560873" duration="611000" />
+      <workItem from="1547968489410" duration="7434000" />
+      <workItem from="1547975993496" duration="5113000" />
+      <workItem from="1547981138033" duration="90000" />
+      <workItem from="1548009452625" duration="258000" />
+      <workItem from="1548083882355" duration="48000" />
+      <workItem from="1548150834022" duration="155000" />
+      <workItem from="1550404176025" duration="2804000" />
+      <workItem from="1550471047801" duration="3223000" />
+      <workItem from="1579219357294" duration="288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_rpr-t9 - 2019.01.20 at 11h 46m 09s.xml">
+      <configuration name="All in rpr-t9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rpr-t9 - 2019.01.20 at 19h 38m 36s.xml">
+      <configuration name="All in rpr-t9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rpr-t9 - 2019.01.21 at 16h 18m 38s.xml">
+      <configuration name="All in rpr-t9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rpr-t9 - 2019.01.22 at 10h 56m 06s.xml">
+      <configuration name="All in rpr-t9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rpr-t9 - 2019.02.18 at 08h 06m 06s.xml">
+      <configuration name="All in rpr-t9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rpr-t9 - 2019.02.18 at 08h 09m 45s.xml">
+      <configuration name="All in rpr-t9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rpr-t9 - 2019.02.18 at 08h 10m 33s.xml">
+      <configuration name="All in rpr-t9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rpr-t9 - 2019.02.18 at 08h 15m 15s.xml">
+      <configuration name="All in rpr-t9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rpr-t9 - 2019.02.18 at 08h 17m 28s.xml">
+      <configuration name="All in rpr-t9" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rpr-t9 - 2019.02.18 at 11h 48m 15s.xml">
+      <configuration name="All in rpr-t9" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="689" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579219364694">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="689" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1579219364694" />
+    <state x="672" y="437" key="Github.ShareDialog" timestamp="1579219719452">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="672" y="437" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1579219719452" />
+    <state x="341" y="175" key="SettingsEditor" timestamp="1579219647805">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="341" y="175" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1579219647805" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>rpr-2parc-rjesenje</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org.testfx:testfx-junit5:4.0.15-alpha</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

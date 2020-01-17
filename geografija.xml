@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_191" class="java.beans.XMLDecoder">
+ <object class="ba.unsa.etf.rpr.Geografija" id="Geografija0">
+  <void property="drzave">
+   <void method="add">
+    <object class="ba.unsa.etf.rpr.Drzava">
+     <void property="glavniGrad">
+      <object class="ba.unsa.etf.rpr.Grad" id="Grad0">
+       <void property="brojStanovnika">
+        <int>1899055</int>
+       </void>
+       <void property="drzava">
+        <object class="ba.unsa.etf.rpr.Drzava">
+         <void property="glavniGrad">
+          <object idref="Grad0"/>
+         </void>
+         <void property="id">
+          <int>3</int>
+         </void>
+         <void property="naziv">
+          <string>Austrija</string>
+         </void>
+        </object>
+       </void>
+       <void property="id">
+        <int>3</int>
+       </void>
+       <void property="naziv">
+        <string>Beč</string>
+       </void>
+       <void property="zagadjenost">
+        <int>5</int>
+       </void>
+      </object>
+     </void>
+     <void property="id">
+      <int>3</int>
+     </void>
+     <void property="naziv">
+      <string>Austrija</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="ba.unsa.etf.rpr.Drzava">
+     <void property="glavniGrad">
+      <object class="ba.unsa.etf.rpr.Grad" id="Grad1">
+       <void property="brojStanovnika">
+        <int>2206488</int>
+       </void>
+       <void property="drzava">
+        <object class="ba.unsa.etf.rpr.Drzava">
+         <void property="glavniGrad">
+          <object idref="Grad1"/>
+         </void>
+         <void property="id">
+          <int>1</int>
+         </void>
+         <void property="naziv">
+          <string>Francuska</string>
+         </void>
+        </object>
+       </void>
+       <void property="id">
+        <int>1</int>
+       </void>
+       <void property="naziv">
+        <string>Pariz</string>
+       </void>
+       <void property="zagadjenost">
+        <int>3</int>
+       </void>
+      </object>
+     </void>
+     <void property="id">
+      <int>1</int>
+     </void>
+     <void property="naziv">
+      <string>Francuska</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="ba.unsa.etf.rpr.Drzava">
+     <void property="glavniGrad">
+      <object class="ba.unsa.etf.rpr.Grad" id="Grad2">
+       <void property="brojStanovnika">
+        <int>8825000</int>
+       </void>
+       <void property="drzava">
+        <object class="ba.unsa.etf.rpr.Drzava">
+         <void property="glavniGrad">
+          <object idref="Grad2"/>
+         </void>
+         <void property="id">
+          <int>2</int>
+         </void>
+         <void property="naziv">
+          <string>Velika Britanija</string>
+         </void>
+        </object>
+       </void>
+       <void property="id">
+        <int>2</int>
+       </void>
+       <void property="naziv">
+        <string>London</string>
+       </void>
+       <void property="zagadjenost">
+        <int>4</int>
+       </void>
+      </object>
+     </void>
+     <void property="id">
+      <int>2</int>
+     </void>
+     <void property="naziv">
+      <string>Velika Britanija</string>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="gradovi">
+   <void method="add">
+    <object class="ba.unsa.etf.rpr.Grad" id="Grad3">
+     <void property="brojStanovnika">
+      <int>8825000</int>
+     </void>
+     <void property="drzava">
+      <object class="ba.unsa.etf.rpr.Drzava">
+       <void property="glavniGrad">
+        <object idref="Grad3"/>
+       </void>
+       <void property="id">
+        <int>2</int>
+       </void>
+       <void property="naziv">
+        <string>Velika Britanija</string>
+       </void>
+      </object>
+     </void>
+     <void property="id">
+      <int>2</int>
+     </void>
+     <void property="naziv">
+      <string>London</string>
+     </void>
+     <void property="zagadjenost">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="ba.unsa.etf.rpr.Grad" id="Grad4">
+     <void property="brojStanovnika">
+      <int>2206488</int>
+     </void>
+     <void property="drzava">
+      <object class="ba.unsa.etf.rpr.Drzava">
+       <void property="glavniGrad">
+        <object idref="Grad4"/>
+       </void>
+       <void property="id">
+        <int>1</int>
+       </void>
+       <void property="naziv">
+        <string>Francuska</string>
+       </void>
+      </object>
+     </void>
+     <void property="id">
+      <int>1</int>
+     </void>
+     <void property="naziv">
+      <string>Pariz</string>
+     </void>
+     <void property="zagadjenost">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="ba.unsa.etf.rpr.Grad" id="Grad5">
+     <void property="brojStanovnika">
+      <int>1899055</int>
+     </void>
+     <void property="drzava">
+      <object class="ba.unsa.etf.rpr.Drzava">
+       <void property="glavniGrad">
+        <object idref="Grad5"/>
+       </void>
+       <void property="id">
+        <int>3</int>
+       </void>
+       <void property="naziv">
+        <string>Austrija</string>
+       </void>
+      </object>
+     </void>
+     <void property="id">
+      <int>3</int>
+     </void>
+     <void property="naziv">
+      <string>Beč</string>
+     </void>
+     <void property="zagadjenost">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="ba.unsa.etf.rpr.Grad" id="Grad6">
+     <void property="brojStanovnika">
+      <int>545500</int>
+     </void>
+     <void property="drzava">
+      <object class="ba.unsa.etf.rpr.Drzava">
+       <void property="glavniGrad">
+        <object idref="Grad6"/>
+       </void>
+       <void property="id">
+        <int>2</int>
+       </void>
+       <void property="naziv">
+        <string>Velika Britanija</string>
+       </void>
+      </object>
+     </void>
+     <void property="id">
+      <int>4</int>
+     </void>
+     <void property="naziv">
+      <string>Manchester</string>
+     </void>
+     <void property="zagadjenost">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="ba.unsa.etf.rpr.Grad" id="Grad7">
+     <void property="brojStanovnika">
+      <int>280200</int>
+     </void>
+     <void property="drzava">
+      <object class="ba.unsa.etf.rpr.Drzava">
+       <void property="glavniGrad">
+        <object idref="Grad7"/>
+       </void>
+       <void property="id">
+        <int>3</int>
+       </void>
+       <void property="naziv">
+        <string>Austrija</string>
+       </void>
+      </object>
+     </void>
+     <void property="id">
+      <int>5</int>
+     </void>
+     <void property="naziv">
+      <string>Graz</string>
+     </void>
+     <void property="zagadjenost">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
